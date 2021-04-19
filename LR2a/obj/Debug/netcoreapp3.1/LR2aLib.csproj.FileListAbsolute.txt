@@ -1,0 +1,9 @@
+D:\Progect\LR2a\LR2a\bin\Debug\netcoreapp3.1\LR2aLib.deps.json
+D:\Progect\LR2a\LR2a\bin\Debug\netcoreapp3.1\LR2aLib.dll
+D:\Progect\LR2a\LR2a\bin\Debug\netcoreapp3.1\LR2aLib.pdb
+D:\Progect\LR2a\LR2a\obj\Debug\netcoreapp3.1\LR2aLib.AssemblyInfoInputs.cache
+D:\Progect\LR2a\LR2a\obj\Debug\netcoreapp3.1\LR2aLib.AssemblyInfo.cs
+D:\Progect\LR2a\LR2a\obj\Debug\netcoreapp3.1\LR2aLib.csproj.CoreCompileInputs.cache
+D:\Progect\LR2a\LR2a\obj\Debug\netcoreapp3.1\LR2aLib.dll
+D:\Progect\LR2a\LR2a\obj\Debug\netcoreapp3.1\LR2aLib.pdb
+D:\Progect\LR2a\LR2a\obj\Debug\netcoreapp3.1\LR2aLib.csprojAssemblyReference.cache

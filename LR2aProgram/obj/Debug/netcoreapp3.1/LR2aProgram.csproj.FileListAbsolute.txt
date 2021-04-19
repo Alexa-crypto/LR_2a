@@ -1,0 +1,16 @@
+D:\Progect\LR2a\LR2aProgram\bin\Debug\netcoreapp3.1\LR2aProgram.exe
+D:\Progect\LR2a\LR2aProgram\bin\Debug\netcoreapp3.1\LR2aProgram.deps.json
+D:\Progect\LR2a\LR2aProgram\bin\Debug\netcoreapp3.1\LR2aProgram.runtimeconfig.json
+D:\Progect\LR2a\LR2aProgram\bin\Debug\netcoreapp3.1\LR2aProgram.runtimeconfig.dev.json
+D:\Progect\LR2a\LR2aProgram\bin\Debug\netcoreapp3.1\LR2aProgram.dll
+D:\Progect\LR2a\LR2aProgram\bin\Debug\netcoreapp3.1\LR2aProgram.pdb
+D:\Progect\LR2a\LR2aProgram\bin\Debug\netcoreapp3.1\LR2aLib.dll
+D:\Progect\LR2a\LR2aProgram\bin\Debug\netcoreapp3.1\LR2aLib.pdb
+D:\Progect\LR2a\LR2aProgram\obj\Debug\netcoreapp3.1\LR2aProgram.csprojAssemblyReference.cache
+D:\Progect\LR2a\LR2aProgram\obj\Debug\netcoreapp3.1\LR2aProgram.AssemblyInfoInputs.cache
+D:\Progect\LR2a\LR2aProgram\obj\Debug\netcoreapp3.1\LR2aProgram.AssemblyInfo.cs
+D:\Progect\LR2a\LR2aProgram\obj\Debug\netcoreapp3.1\LR2aProgram.csproj.CoreCompileInputs.cache
+D:\Progect\LR2a\LR2aProgram\obj\Debug\netcoreapp3.1\LR2aProgram.csproj.CopyComplete
+D:\Progect\LR2a\LR2aProgram\obj\Debug\netcoreapp3.1\LR2aProgram.dll
+D:\Progect\LR2a\LR2aProgram\obj\Debug\netcoreapp3.1\LR2aProgram.pdb
+D:\Progect\LR2a\LR2aProgram\obj\Debug\netcoreapp3.1\LR2aProgram.genruntimeconfig.cache

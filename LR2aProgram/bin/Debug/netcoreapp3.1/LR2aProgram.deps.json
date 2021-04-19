@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LR2aProgram/1.0.0": {
+        "dependencies": {
+          "LR2aLib": "1.0.0"
+        },
+        "runtime": {
+          "LR2aProgram.dll": {}
+        }
+      },
+      "LR2aLib/1.0.0": {
+        "runtime": {
+          "LR2aLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LR2aProgram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LR2aLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
